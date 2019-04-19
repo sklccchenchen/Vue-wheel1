@@ -1,7 +1,7 @@
 {
   "name": "vuewheel",
   "version": "1.0.0",
-  "description": "\u001b[C\u001b[D：简易UI框架",
+  "description": "简易UI框架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,8 @@
   "homepage": "https://github.com/sklccchenchen/Vue-wheel1#readme",
   "dependencies": {
     "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
   }
 }
