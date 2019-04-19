@@ -1,0 +1,23 @@
+{
+  "name": "vuewheel",
+  "version": "1.0.0",
+  "description": "\u001b[C\u001b[D：简易UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sklccchenchen/Vue-wheel1.git"
+  },
+  "keywords": [
+    "vue",
+    "UI"
+  ],
+  "author": "sklccchenchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sklccchenchen/Vue-wheel1/issues"
+  },
+  "homepage": "https://github.com/sklccchenchen/Vue-wheel1#readme"
+}
